@@ -1,0 +1,807 @@
+* {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    text-decoration: none;
+}
+
+header {
+    width: 100%;
+}
+
+.header-en {
+    width: 100%;
+
+}
+
+
+.header-en .en-nvn {
+    width: 990px;
+    height: 100px;
+    margin: 0 auto;
+}
+
+.en-nvn .en-a {
+    display: block;
+    width: 176px;
+    height: 60px;
+    margin-top: 30px;
+    background-image: url(../image/首页/商标/下载.svg);
+    background-repeat: no-repeat;
+    background-size: 176px 60px;
+}
+
+/* 内容区 */
+/* 内容区 */
+main {
+    width: 100%;
+}
+
+.main-da {
+    width: 100%;
+    height: 600px;
+    background-color: #F6F6F6;
+}
+
+.main-da .mainda-en {
+    width: 100%;
+
+}
+
+.time::after {
+    content: "";
+    display: block;
+    clear: both;
+}
+
+.mainda-en .enen-d {
+    width: 990px;
+    margin: 0 auto;
+}
+
+.enned-left {
+    width: 580px;
+    overflow: hidden;
+    margin-top: 45px;
+    float: left;
+}
+
+.enend-left>a {
+    width: 580px;
+    height: 466px;
+}
+
+.left-aa img {
+    width: 580px;
+    height: 466px;
+}
+
+
+.ened-reigth {
+    width: 100%;
+}
+
+.reigth-df {
+    position: relative;
+    width: 320px;
+    height: 475px;
+    padding: 7px 30px 20px;
+    float: right;
+    background-color: white;
+    /* border: 1px solid black; */
+    margin-top: 48px;
+}
+
+
+.kloj::after {
+    content: "";
+    display: block;
+    clear: both;
+}
+
+.df-gjhg {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-pack: distribute;
+    height: 55px;
+    line-height: 55px;
+    border-bottom: 1px solid #ddd;
+    justify-content: space-around;
+
+}
+
+.ti-opl {
+    line-height: 24px;
+    font-size: 12px;
+    color: #000;
+    width: 304px;
+    height: 24px;
+    padding-left: 16px;
+
+    display: none;
+}
+
+.kai {
+    width: 26px;
+    height: 26px;
+    background-image: url(../image/登录注册/kai.png);
+    background-repeat: no-repeat;
+    background-size: 26px;
+    background-position: 1px 1px;
+    cursor: pointer;
+    display: none;
+}
+
+.guan {
+    width: 26px;
+    height: 26px;
+    background-image: url(../image/登录注册/guan.png);
+    background-repeat: no-repeat;
+    background-size: 26px;
+    background-position: 1px 1px;
+    cursor: pointer;
+    display: none;
+}
+
+.guo-pl {
+    margin-right: 24px;
+    margin-top: 2px;
+}
+
+.df-gjhg .df-span {
+    margin: 0 auto;
+    color: #333333;
+    position: relative;
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 55px;
+    width: 150px;
+    height: 100%;
+
+}
+
+.tab::after {
+    content: "";
+    position: absolute;
+    bottom: -1px;
+    left: 50%;
+    border-bottom: #000000 3px solid;
+    width: 60px;
+    height: 4px;
+    border-radius: 2px;
+    transform: translateX(-50%);
+}
+
+.df-input {
+    width: 100%;
+
+}
+
+.inputform {
+    width: 100%;
+}
+
+.form-pp {
+    width: 320px;
+    height: 24px;
+
+}
+
+/* *****************输入手机号码****************************** */
+
+.account-input-item {
+    position: relative;
+    width: 100%;
+    height: 69px;
+    /* border: 1px solid black; */
+}
+
+.account-input-item>label {
+    box-sizing: border-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-align: center;
+    align-items: center;
+    width: 100%;
+    height: 40px;
+    line-height: 38px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 13px;
+    color: #333;
+
+}
+
+label>.ioch {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.iohj-dshvv {
+    width: 12px;
+    height: 18px;
+    padding: 0 9px;
+    background-image: url(../image/登录注册/x1.png);
+    background-repeat: no-repeat;
+    background-size: 12px 18px;
+    background-position: 10px 0px;
+}
+
+#iptwsc-dsf {
+    width: 256px;
+    height: 38px;
+    border: 0;
+    outline: none;
+    font-size: 14px;
+    color: #ccc;
+}
+
+.labelspan {
+    width: 32px;
+    font-weight: 700;
+    color: #333;
+}
+
+.accksnd-bdsb {
+    line-height: 24px;
+    font-size: 14px;
+    color: #f75354;
+    width: 304px;
+    height: 24px;
+    padding-left: 16px;
+    background-image: url(../image/登录注册/gang.png);
+    background-repeat: no-repeat;
+    background-size: 14px 14px;
+    background-position: 0px 6px;
+    display: none;
+}
+
+.ioch-io {
+    position: absolute;
+    top: 12px;
+    right: 12px;
+    width: 14px;
+    height: 14px;
+    background-image: url(../image/登录注册/cha.png);
+    background-repeat: no-repeat;
+    background-size: 14px;
+    display: none;
+    cursor: pointer;
+}
+
+.ioch-hdhb-hasv {
+    position: absolute;
+    top: 12px;
+    right: 12px;
+    width: 14px;
+    height: 14px;
+    background-image: url(../image/登录注册/gou.png);
+    background-repeat: no-repeat;
+    background-size: 14px;
+    display: none;
+}
+
+.iohj-dshvv-fghg {
+    width: 12px;
+    height: 18px;
+    padding: 0 9px;
+    background-image: url(../image/登录注册/x2.png);
+    background-repeat: no-repeat;
+    background-size: 12px 18px;
+    background-position: 10px 0px;
+}
+
+/* ********************密码********************************** */
+
+.account-input-item2 {
+    position: relative;
+    width: 100%;
+    height: 69px;
+    /* border: 1px solid black; */
+}
+
+.account-input-item2>label {
+    box-sizing: border-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-align: center;
+    align-items: center;
+    width: 100%;
+    height: 40px;
+    line-height: 38px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 13px;
+    color: #333;
+
+}
+
+label>.ioch2 {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.iohj-dshvv2 {
+    width: 12px;
+    height: 18px;
+    padding: 0 9px;
+    background-image: url(../image/登录注册/x1.png);
+    background-repeat: no-repeat;
+    background-size: 12px 18px;
+    background-position: 10px 0px;
+}
+
+#iptwsc-dsf2 {
+    width: 256px;
+    height: 38px;
+    border: 0;
+    outline: none;
+    font-size: 12px;
+    color: #ccc;
+}
+
+.labelspan2 {
+    width: 32px;
+    font-weight: 700;
+    color: #333;
+}
+
+.accksnd-bdsb2 {
+    line-height: 24px;
+    font-size: 12px;
+    color: #f75354;
+    width: 304px;
+    height: 24px;
+    padding-left: 16px;
+    background-image: url(../image/登录注册/gang.png);
+    background-repeat: no-repeat;
+    background-size: 14px 14px;
+    background-position: 0px 6px;
+    display: none;
+}
+
+.ioch-io2 {
+    position: absolute;
+    top: 12px;
+    right: 12px;
+    width: 14px;
+    height: 14px;
+    background-image: url(../image/登录注册/cha.png);
+    background-repeat: no-repeat;
+    background-size: 14px;
+    display: none;
+    cursor: pointer;
+}
+
+.ioch-hdhb-hasv2 {
+    position: absolute;
+    top: 12px;
+    right: 12px;
+    width: 14px;
+    height: 14px;
+    background-image: url(../image/登录注册/gou.png);
+    background-repeat: no-repeat;
+    background-size: 14px;
+    display: none;
+}
+
+.iohj-dshvv-fghg2 {
+    width: 12px;
+    height: 18px;
+    padding: 0 9px;
+    background-image: url(../image/登录注册/x2.png);
+    background-repeat: no-repeat;
+    background-size: 12px 18px;
+    background-position: 10px 0px;
+}
+
+/* *************************确定密码*********************** */
+.account-input-item3 {
+    position: relative;
+    width: 100%;
+    height: 69px;
+    /* border: 1px solid black; */
+}
+
+.account-input-item3>label {
+    box-sizing: border-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-align: center;
+    align-items: center;
+    width: 100%;
+    height: 40px;
+    line-height: 38px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 13px;
+    color: #333;
+
+}
+
+label>.ioch3 {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.iohj-dshvv3 {
+    width: 12px;
+    height: 18px;
+    padding: 0 9px;
+    background-image: url(../image/登录注册/x1.png);
+    background-repeat: no-repeat;
+    background-size: 12px 18px;
+    background-position: 10px 0px;
+}
+
+#iptwsc-dsf3 {
+    width: 256px;
+    height: 38px;
+    border: 0;
+    outline: none;
+    font-size: 12px;
+    color: #ccc;
+}
+
+.labelspan3 {
+    width: 32px;
+    font-weight: 700;
+    color: #333;
+}
+
+.accksnd-bdsb3 {
+    line-height: 24px;
+    font-size: 12px;
+    color: #f75354;
+    width: 304px;
+    height: 24px;
+    padding-left: 16px;
+    background-image: url(../image/登录注册/gang.png);
+    background-repeat: no-repeat;
+    background-size: 14px 14px;
+    background-position: 0px 6px;
+    display: none;
+}
+
+.ioch-io3 {
+    position: absolute;
+    top: 12px;
+    right: 12px;
+    width: 14px;
+    height: 14px;
+    background-image: url(../image/登录注册/cha.png);
+    background-repeat: no-repeat;
+    background-size: 14px;
+    display: none;
+    cursor: pointer;
+}
+
+.ioch-hdhb-hasv3 {
+    position: absolute;
+    top: 12px;
+    right: 12px;
+    width: 14px;
+    height: 14px;
+    background-image: url(../image/登录注册/gou.png);
+    background-repeat: no-repeat;
+    background-size: 14px;
+    display: none;
+}
+
+.iohj-dshvv-fghg3 {
+    width: 12px;
+    height: 18px;
+    padding: 0 9px;
+    background-image: url(../image/登录注册/x2.png);
+    background-repeat: no-repeat;
+    background-size: 12px 18px;
+    background-position: 10px 0px;
+}
+
+/* .dier-lpo {
+    width: 98px;
+    height: 32;
+    color: white;
+    text-align: center;
+    font-size: 16px;
+    line-height: 32px;
+    background-color: #666666;
+    border-radius: 5px;
+} */
+
+
+/* #iptwsc-jkjlhh { */
+/* width: 187px;
+    height: 38px;
+    border: 0;
+    outline: none;
+    font-size: 12px;
+    color: #ccc;
+}
+
+.hjbgds {
+    width: 98px;
+    height: 32px;
+    margin: 3px 3px 3px 0;
+    border-top-right-radius: 3px;
+    border-bottom-right-radius: 3px;
+    cursor: pointer;
+}
+
+
+.label-hbdui {
+    box-sizing: border-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-align: center;
+    align-items: center;
+    width: 100%;
+    height: 40px;
+    line-height: 38px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 13px;
+    color: #333;
+} */
+
+/* *******************************验证码********************** */
+.account-input-item-ioct {
+    width: 214px;
+    height: 69px;
+    position: relative;
+}
+
+.iohj-dshvv-hjbs-ahsb {
+    width: 12px;
+    height: 18px;
+    padding: 0 9px;
+    background-image: url(../image/登录注册/x3.png);
+    background-repeat: no-repeat;
+    background-size: 12px 18px;
+    background-position: 10px 0px;
+}
+
+#label-hbdui-dfds {
+    box-sizing: border-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-align: center;
+    align-items: center;
+    width: 100%;
+    height: 40px;
+    line-height: 38px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 13px;
+    color: #333;
+}
+
+#iptwsc-dfg-jdkb {
+    width: 176px;
+    height: 38px;
+    outline: none;
+    border: 0;
+    font-size: 12px;
+    color: #ccc;
+}
+
+.button {
+    position: absolute;
+    right: -108px;
+    top: 0;
+    width: 100px;
+    height: 40px;
+    border-radius: 4px;
+    background-color: #ccc;
+    color: #fff;
+    border: 0;
+    cursor: not-allowed;
+    /* cursor: pointer; */
+}
+
+.ioch-hdhb-hasv-ehwj {
+    width: 14px;
+    height: 14px;
+    position: absolute;
+    top: 12px;
+    right: 12px;
+    background-image: url(../image/登录注册/gou.png);
+    background-repeat: no-repeat;
+    background-size: 14px;
+    display: none;
+
+}
+
+.djasa-as {
+    line-height: 24px;
+    font-size: 12px;
+    color: #999999;
+    width: 304px;
+    height: 24px;
+    padding-left: 16px;
+    background-image: url(../image/登录注册/gou.png);
+    background-repeat: no-repeat;
+    background-size: 14px 14px;
+    background-position: 0px 6px;
+    display: none;
+}
+
+.dhsjh-asd {
+    line-height: 24px;
+    font-size: 12px;
+    color: #f75354;
+    width: 304px;
+    height: 24px;
+    padding-left: 16px;
+    background-image: url(../image/登录注册/gang.png);
+    background-repeat: no-repeat;
+    background-size: 14px 14px;
+    background-position: 0px 6px;
+    display: none;
+}
+
+.btn-san {
+    width: 100%;
+
+}
+
+.btn-san .btnan-sbj {
+    width: 100%;
+    height: 40px;
+    border-radius: 4px;
+    background-color: #444444;
+    font-weight: 700;
+    font-size: 16px;
+    border: 0;
+    cursor: pointer;
+    color: #fff;
+}
+
+/* **************************注册******************************** */
+.cell-agreement {
+    line-height: 18px;
+    margin-top: 8px;
+    font-size: 14px;
+    color: #999;
+    position: relative;
+    /* text-indent: 2em; */
+    margin-left: 20px;
+    /* text-indent: 2em; */
+}
+
+.cell-span {
+    border: 2.5px solid #ccc;
+    display: inline-block;
+    /* background-color: #000000; */
+    position: absolute;
+    top: 2px;
+    left: 0px;
+    background-image: url(../image/登录注册/jiant2.png);
+    background-repeat: no-repeat;
+    background-size: 30px;
+    background-position: -10px -9px;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+
+}
+
+.cconte div input[type='checkbox'] {
+
+    position: absolute;
+
+    left: -1.2rem;
+
+    top: .1rem;
+
+    -webkit-appearance: none;
+
+    appearance: none;
+    /* 去掉复选框的默认背景样式 */
+
+    -moz-appearance: none;
+
+    display: block;
+
+    width: 1rem;
+
+    height: 1rem;
+
+    border: 0.012rem solid #B5B5B5;
+
+    outline: none;
+
+    cursor: pointer;
+
+    border-radius: 0.01rem;
+
+}
+
+.cconte div input[type='checkbox']:checked {
+
+    background: url(../image/购物车/guo1.png) no-repeat center /cover;
+
+    border: none;
+
+}
+
+
+.flexstart::after {
+    content: "";
+    display: block;
+    clear: both;
+}
+
+.cconte {
+    display: inline-block;
+}
+
+/* 尾部 */
+/* 尾部 */
+footer {
+    width: 100%;
+}
+
+.foowei {
+    width: 990px;
+    font-size: 12px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.footh::after {
+    content: "";
+    display: block;
+    clear: both;
+}
+
+.wei-snb {
+    width: 100%;
+}
+
+.weisnb-jknb {
+    line-height: 60px;
+    color: #666666;
+    width: 100%;
+    height: 60px;
+    margin-top: 50px;
+}
+
+.jknb-aaa {
+    color: #666666;
+}
+
+.jknb-aaa:hover {
+    color: #000;
+}
+
+.xieyi {
+    line-height: 24px;
+    font-size: 14px;
+    color: #f75354;
+    width: 304px;
+    height: 24px;
+    padding-left: 16px;
+    background-image: url(../image/登录注册/gang.png);
+    background-repeat: no-repeat;
+    background-size: 14px 14px;
+    background-position: 0px 6px;
+    display: none;
+}
+
+.tiao {
+    font-size: 16px;
+    text-align: right;
+    padding-right: 10px;
+    margin-top: 20px;
+}
+
+.tiaozhuan {
+    font-size: 14px;
+    text-align: left;
+   position: absolute;
+   bottom:8px;
+   left: 30px;
+   
+}
